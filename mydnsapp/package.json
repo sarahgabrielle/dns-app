@@ -1,0 +1,14 @@
+{
+  "name": "mydnsapp",
+  "version": "1.0.0",
+  "description": "a basic app to learn DNS",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
